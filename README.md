@@ -19,9 +19,6 @@ Aspiring DevOps Engineer and NURE student focused on learning through hands-on p
 ### CI/CD Forge
 A tool designed to automate common DevOps processes. It can detect a project's stack and generate Dockerfiles and Docker Compose configurations.
 
-### NURE Schedule
-An automated schedule website for my university group. Python parses schedule data, while GitHub Actions automatically updates and deploys the website.
-
 ## Currently Learning
 
 - Terraform and Infrastructure as Code
