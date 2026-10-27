@@ -1,5 +1,3 @@
-# Igor Korneyko
-
 Aspiring DevOps Engineer and NURE student focused on learning through hands-on projects.
 
 ## About Me
